@@ -36,3 +36,17 @@ $ bash Run.sh
 
 * * *
 # Weld-break-prediction
+
+Citation
+========
+```bibtex
+@article{https://doi.org/10.13140/rg.2.2.28599.37283,
+  doi = {10.13140/RG.2.2.28599.37283},
+  url = {http://rgdoi.net/10.13140/RG.2.2.28599.37283},
+  author = {{Bereket Abera Yilma}},
+  language = {en},
+  title = {Recommender system for Weld break prediction},
+  publisher = {Unpublished},
+  year = {2017}
+}
+```
