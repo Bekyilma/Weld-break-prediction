@@ -7,7 +7,7 @@ In a production line a steel strip comes to the cold rolling machine in the form
 The full project report can be found here https://www.researchgate.net/publication/321360695_Recommender_system_for_Weld_break_prediction
 
 **Author**
-- [Bereket Abera Yilma](bereketabera.yilma@studenti.unitn.it)
+- [Bereket Abera Yilma](https://www.researchgate.net/profile/Bereket_Yilma)
 
 * * *
 
